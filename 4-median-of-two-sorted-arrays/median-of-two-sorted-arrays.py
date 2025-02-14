@@ -5,8 +5,7 @@ class Solution:
         n= len(nums3)
         median = float('inf')
         if n%2==1:
-            median= (n)//2
-            return float(nums3[median])
+            return float(nums3[n//2])
         else:
             middle1= nums3[n//2-1]
             middle2=nums3[n//2]
