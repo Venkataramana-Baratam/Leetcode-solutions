@@ -10,5 +10,6 @@ class Solution:
                 lesser.append(num)
             else:
                 greater.append(num)
-        l1 =lesser+equal+greater
-        return l1
+        lesser.extend(equal)
+        lesser.extend(greater)
+        return lesser
