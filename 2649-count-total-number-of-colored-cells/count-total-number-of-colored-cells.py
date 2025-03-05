@@ -1,6 +1,9 @@
 class Solution:
     def coloredCells(self, n: int) -> int:
-        if n == 1:
-            return 1
-        return 1 + 4 * ((n * (n - 1)) // 2)
-
+        blue_cells=1
+        add=4
+        while n-1:
+            blue_cells+=add
+            add+=4
+            n-=1
+        return blue_cells
