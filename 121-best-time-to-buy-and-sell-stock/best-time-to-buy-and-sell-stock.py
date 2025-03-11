@@ -5,8 +5,7 @@ class Solution:
         for key,value in enumerate(prices):
             if mini>value:
                 mini=value
-            else:
-                profit = value - mini
-                if profit> max_profit:
-                    max_profit = profit
+            profit = value - mini
+            if profit> max_profit:
+                max_profit = profit
         return max_profit
