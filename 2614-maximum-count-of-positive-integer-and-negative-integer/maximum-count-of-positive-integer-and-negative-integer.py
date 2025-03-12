@@ -7,6 +7,4 @@ class Solution:
                 l1.append(nums[i])
             elif(nums[i]<0):
                 l2.append(nums[i])
-        h = len(l1)
-        m=len(l2)
-        return max(h,m)
+        return max(len(l1),len(l2))
