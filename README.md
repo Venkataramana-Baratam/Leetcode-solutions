@@ -39,6 +39,7 @@
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -51,18 +52,22 @@
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
