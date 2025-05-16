@@ -4,8 +4,9 @@ class Solution:
         maxi = -sys.maxsize-1
         for num in nums:
             sum+=num
-            if sum<0:
-                sum=0
             if sum>maxi:
                 maxi = sum
+            if sum<0:
+                sum=0
+           
         return maxi
