@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -72,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0204-count-primes) |
 | [3321-type-of-triangle](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3321-type-of-triangle) |
