@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1293-three-consecutive-odds](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -48,6 +49,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Enumeration
@@ -88,6 +91,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Divide and Conquer
