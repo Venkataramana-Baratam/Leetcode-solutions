@@ -23,6 +23,7 @@
 | [3321-type-of-triangle](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Graph
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [3321-type-of-triangle](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
