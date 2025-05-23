@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
