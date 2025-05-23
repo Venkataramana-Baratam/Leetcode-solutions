@@ -60,6 +60,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -90,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
