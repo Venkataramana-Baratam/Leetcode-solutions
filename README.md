@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -176,6 +177,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Recursion
 |  |
