@@ -22,6 +22,7 @@
 | [0410-split-array-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -99,6 +100,7 @@
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -116,6 +118,7 @@
 | [0050-powx-n](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
