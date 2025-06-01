@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
@@ -246,4 +247,8 @@
 | [0945-snakes-and-ladders](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
