@@ -31,6 +31,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -49,6 +50,7 @@
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Linked List
