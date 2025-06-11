@@ -1,6 +1,16 @@
 class Solution:
     def maxDifference(self, s: str) -> int:
-        c = Counter(s)
-        maxOdd = max(x for x in c.values() if x % 2 == 1)
-        minEven = min(x for x in c.values() if x % 2 == 0)
-        return maxOdd - minEven
+        mpp = {}
+        for i in s:
+            if i in mpp:
+                mpp[i]+=1
+            else:
+                mpp[i] = 1
+        maxiodd = 0
+        minieven = float('inf')
+        for key,value in mpp.items():
+            if value%2!=0:
+                maxiodd = max(maxiodd,value)
+            else:
+                minieven = min(minieven,value)
+        return maxiodd-minieven
