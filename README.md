@@ -135,6 +135,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,4 +316,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
