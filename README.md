@@ -111,6 +111,7 @@
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -129,6 +130,7 @@
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -267,6 +270,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
