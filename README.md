@@ -91,6 +91,7 @@
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -117,6 +118,7 @@
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -137,6 +139,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -176,6 +179,7 @@
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
