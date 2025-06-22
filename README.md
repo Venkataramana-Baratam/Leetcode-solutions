@@ -21,6 +21,7 @@
 | [0204-count-primes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -61,6 +62,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -114,6 +116,7 @@
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -136,6 +139,7 @@
 | [0148-sort-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -212,6 +216,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -226,6 +231,7 @@
 | [0148-sort-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
 |  |
 | ------- |
@@ -357,4 +363,12 @@
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
