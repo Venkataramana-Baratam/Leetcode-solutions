@@ -172,6 +172,7 @@
 | [0050-powx-n](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -290,6 +291,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
@@ -305,6 +307,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
