@@ -311,6 +311,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
