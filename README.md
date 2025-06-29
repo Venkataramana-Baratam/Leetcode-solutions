@@ -37,6 +37,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -155,6 +156,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -275,6 +277,7 @@
 | [0234-palindrome-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -295,6 +298,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
