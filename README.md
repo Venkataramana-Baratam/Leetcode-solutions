@@ -194,6 +194,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -319,11 +320,13 @@
 | [0206-reverse-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
