@@ -206,6 +206,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -398,6 +399,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
