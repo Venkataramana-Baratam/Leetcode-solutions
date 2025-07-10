@@ -29,6 +29,7 @@
 | [0410-split-array-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -411,6 +412,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
@@ -457,4 +459,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
