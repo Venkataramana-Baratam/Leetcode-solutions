@@ -219,6 +219,7 @@
 | [0066-plus-one](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -238,6 +239,7 @@
 | [0290-word-pattern](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -370,6 +372,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
