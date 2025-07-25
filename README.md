@@ -38,6 +38,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
