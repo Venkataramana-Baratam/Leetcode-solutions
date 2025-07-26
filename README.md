@@ -62,6 +62,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [2486-most-frequent-even-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -168,6 +169,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [2486-most-frequent-even-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2486-most-frequent-even-element) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -299,6 +301,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2486-most-frequent-even-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2486-most-frequent-even-element) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
