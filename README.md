@@ -84,6 +84,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Graph
 |  |
@@ -394,6 +395,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -558,4 +561,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
