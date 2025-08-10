@@ -123,6 +123,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 ## Greedy
