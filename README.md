@@ -42,6 +42,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
@@ -137,6 +138,7 @@
 | [0409-longest-palindrome](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
