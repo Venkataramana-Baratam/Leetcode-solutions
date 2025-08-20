@@ -453,6 +453,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0100-same-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -468,6 +469,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -475,6 +477,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0945-snakes-and-ladders](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -586,4 +589,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
