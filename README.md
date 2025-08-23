@@ -93,6 +93,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Graph
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -437,6 +439,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Prefix Sum
 |  |
 | ------- |
