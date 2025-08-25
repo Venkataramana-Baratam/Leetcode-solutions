@@ -38,6 +38,7 @@
 | [0455-assign-cookies](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -122,6 +123,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -436,6 +438,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
