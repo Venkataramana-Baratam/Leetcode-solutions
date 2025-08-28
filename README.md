@@ -52,6 +52,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -128,6 +129,7 @@
 | [0498-diagonal-traverse](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -232,6 +234,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
