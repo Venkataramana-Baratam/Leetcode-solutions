@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -153,6 +154,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -396,6 +398,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0061-rotate-list) |
