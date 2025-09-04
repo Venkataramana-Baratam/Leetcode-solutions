@@ -296,6 +296,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
