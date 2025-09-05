@@ -269,6 +269,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -486,6 +487,7 @@
 | [0389-find-the-difference](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
@@ -632,4 +634,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0100-same-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
