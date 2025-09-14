@@ -1,10 +1,12 @@
+from typing import List
+
 class Solution:
     def smallestAbsent(self, nums: List[int]) -> int:
-        n = len(nums)
-        arr_sum = sum(nums)
-        avg = arr_sum/n
-        i = int(avg)+1
+        avg = sum(nums) / len(nums)
+        present = set(nums)
+        
+        candidate = int(avg) + 1  
         while True:
-            if i not in nums:
-                return i
-            i+=1
+            if candidate not in present:
+                return candidate
+            candidate += 1
