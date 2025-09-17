@@ -78,6 +78,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -253,6 +254,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -375,6 +377,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/2486-most-frequent-even-element) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
