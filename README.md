@@ -48,6 +48,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0932-monotonic-array) |
@@ -444,6 +445,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
