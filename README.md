@@ -51,6 +51,7 @@
 | [0645-set-mismatch](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0830-largest-triangle-area](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0932-monotonic-array) |
@@ -294,6 +295,7 @@
 | [0231-power-of-two](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/1448-maximum-69-number) |
@@ -662,4 +664,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Venkataramana-Baratam/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
