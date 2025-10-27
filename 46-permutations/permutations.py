@@ -1,13 +1,19 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        def backtrack(start: int):
-            if start==len(nums):
-                result.append(nums[:])
+        n = len(nums)
+        ds = []
+        freq = [0]*n
+        ans = []
+        def f(ds,freq,ans):
+            for i in range(n):
+                if freq[i]==0:
+                    ds.append(nums[i])
+                    freq[i] = 1
+                    f(ds,freq,ans)
+                    freq[i] = 0
+                    ds.pop()
+            if len(ds) == n:
+                ans.append(ds[:])
                 return 
-            for i in range(start,len(nums)):
-                nums[start],nums[i] = nums[i],nums[start]
-                backtrack(start+1)
-                nums[start],nums[i] = nums[i],nums[start]
-        result=[]
-        backtrack(0)
-        return result
+        f(ds,freq,ans)
+        return ans
