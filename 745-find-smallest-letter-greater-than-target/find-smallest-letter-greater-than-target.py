@@ -1,7 +1,13 @@
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
-        mini = 123
-        for letter in letters:
-            if ord(letter)>ord(target):
-                mini = min(ord(letter),mini)
-        return chr(mini) if mini!=123 else letters[0]
+        n = len(letters)
+        low = 0
+        high = n - 1
+
+        while low<=high:
+            mid = (low + high)//2
+            if letters[mid]>target:
+                high = mid -1
+            else:
+                low = mid + 1
+        return letters[low%n]
