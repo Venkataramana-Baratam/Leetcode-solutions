@@ -4,29 +4,30 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
-#from collections import deque
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        result = []
-        if not root:
-            return result
+        res = []
+
+        lefttoRight = True
+        if root is None:
+            return res
+
         nodesqueue = deque()
         nodesqueue.append(root)
-        leftToright = True
+
         while nodesqueue:
+
             size = len(nodesqueue)
             row = [0]*size
             for i in range(size):
-
                 node = nodesqueue.popleft()
-                index = i if leftToright else (size-1-i)
-
+                index  = i if lefttoRight else (size - 1 - i)
                 row[index] = node.val
+
                 if node.left:
                     nodesqueue.append(node.left)
                 if node.right:
                     nodesqueue.append(node.right)
-            leftToright = not leftToright
-            result.append(row)
-        return result
+            lefttoRight = not lefttoRight
+            res.append(row)
+        return res
