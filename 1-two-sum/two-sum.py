@@ -1,10 +1,13 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        mpp={}
+        
+        hashmap = {}
+
         for i in range(len(nums)):
-            k =nums[i]
-            moreneeded=target-k
-            if moreneeded in mpp:
-                return [mpp[moreneeded],i]
-            mpp[k]=i
+            complement = target - nums[i]
+
+            if complement in hashmap:
+                return [i, hashmap[complement]]
+            hashmap[nums[i]] = i
+            
         return []
