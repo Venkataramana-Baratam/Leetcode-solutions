@@ -3,8 +3,8 @@ class Solution:
         
         n = len(nums)
 
-        if n == 1:
-            return n
+       # if n == 1:
+#            return n
 
         max_ind = float('-inf')
 
