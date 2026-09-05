@@ -1,19 +1,21 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        
-
-        total = 0
+        sum=0
         maxi = float('-inf')
+        start=-1
+        end=-1
+        tempstart=-1 
+        for i in range(len(nums)):
+            
+            if sum == 0:
+                tempstart = i
+            sum+=nums[i]
 
-        for num in nums:
-
-            total+=num
-
-            if total > maxi:
-
-                maxi = total
-
-            if total < 0:
-                total = 0
-
+            if sum>maxi:
+                maxi=sum
+                start=tempstart
+                end=i
+            if sum<0:
+                sum=0
+        print(nums[start:end+1])
         return maxi
