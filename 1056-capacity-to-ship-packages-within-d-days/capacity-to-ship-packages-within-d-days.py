@@ -1,11 +1,11 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
         def fun(weights,capacity):
-            load =0
-            day =1
+            load = 0
+            day = 1
             for i in range(len(weights)):
                 if load+weights[i]>capacity:
-                    day =day+1
+                    day = day+1
                     load = weights[i]
                 else:
                     load+=weights[i]
